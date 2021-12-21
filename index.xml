@@ -1,24 +1,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aubrey</title>
-    <link>http://example.org/</link>
-    <description>Recent content on Aubrey</description>
+    <title>Aubrey&#39;s Blog</title>
+    <link>http://www.aubreyling.com/</link>
+    <description>Recent content on Aubrey&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>This is a customized copyright.</copyright>
     <lastBuildDate>Tue, 21 Dec 2021 15:21:20 +0800</lastBuildDate>
     
-        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://www.aubreyling.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     
         <item>
         <title>Aubrey</title>
-        <link>http://example.org/post/aubrey/</link>
+        <link>http://www.aubreyling.com/post/aubrey/</link>
         <pubDate>Tue, 21 Dec 2021 15:21:20 +0800</pubDate>
         
-        <guid>http://example.org/post/aubrey/</guid>
-        <description>Aubrey http://example.org/post/aubrey/ -&lt;p&gt;写点什么好呢？&lt;/p&gt;
-- http://example.org/post/aubrey/ - </description>
+        <guid>http://www.aubreyling.com/post/aubrey/</guid>
+        <description>Aubrey&#39;s Blog http://www.aubreyling.com/post/aubrey/ -&lt;p&gt;写点什么好呢？&lt;/p&gt;
+- http://www.aubreyling.com/post/aubrey/ - This is a customized copyright.</description>
         </item>
     
     
